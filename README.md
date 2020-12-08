@@ -44,6 +44,7 @@
           <tr> <td>One Ok Rock</td> <td>Wasted Nights</td></tr>
            <tr> <td>AC/DC</td> <td>Thunderstruck</td></tr>
             <tr> <td>Twice</td> <td>I can't stop me</td></tr>
-             <tr> <td>Fall Out Boy</td> <td>Thnks fr th mmrs</td></tr> </table> </thead>
+             <tr> <td>Fall Out Boy</td> <td>Thnks fr th mmrs</td></tr> </table><tbody>
+            </tbody> </thead>
   </html>
   
