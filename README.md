@@ -30,7 +30,7 @@
       
       <h3 id="?"> Ulubione piosenki </h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNL_7NFHa49dWzy10uqcMGw0_i-sXKlEzpGQ&usqp=CAU" alt="fav" width="400"/>
-     <table> <thead>
+    <body> <table> <thead>
                 <tr>
                     <th>Wykonawca</th>
                     <th>Ulubiona piosenka</th>
@@ -56,6 +56,6 @@
              <tr> <td>Fall Out Boy</td>
              <td>Thnks fr th mmrs</td></tr> 
              </table><tbody>
-            </tbody> </thead>
+            </tbody> </thead> </body>
   </html>
   
