@@ -35,16 +35,27 @@
                     <th>Wykonawca</th>
                     <th>Ulubiona piosenka</th>
                 </tr>
-      <tr> <td>NCT</td> <td>From Home</td></tr>
-      <tr> <td>SHINee</td> <td>Replay</td></tr>
-      <tr> <td>My Chemical Romance</td> <td>Teenagers</td></tr>
-       <tr> <td>Nirvana</td> <td>About a girl</td></tr>
-        <tr> <td>GOT7</td> <td>Thursday</td></tr>
-         <tr> <td>EXO</td> <td>Call me baby</td></tr>
-          <tr> <td>One Ok Rock</td> <td>Wasted Nights</td></tr>
-           <tr> <td>AC/DC</td> <td>Thunderstruck</td></tr>
-            <tr> <td>Twice</td> <td>I can't stop me</td></tr>
-             <tr> <td>Fall Out Boy</td> <td>Thnks fr th mmrs</td></tr> </table><tbody>
+      <tr> <td>NCT</td>
+      <td>From Home</td> </tr>
+      <tr> <td>SHINee</td> 
+      <td>Replay</td> </tr>
+      <tr> <td>My Chemical Romance</td>
+      <td>Teenagers</td></tr>
+       <tr> <td>Nirvana</td> 
+       <td>About a girl</td></tr>
+        <tr> <td>GOT7</td> 
+        <td>Thursday</td></tr>
+         <tr> <td>EXO</td> 
+         <td>Call me baby</td></tr>
+          <tr> <td>One Ok Rock</td> 
+          <td>Wasted Nights</td></tr>
+           <tr> <td>AC/DC</td>
+           <td>Thunderstruck</td></tr>
+            <tr> <td>Twice</td>
+            <td>I can't stop me</td></tr>
+             <tr> <td>Fall Out Boy</td>
+             <td>Thnks fr th mmrs</td></tr> 
+             </table><tbody>
             </tbody> </thead>
   </html>
   
