@@ -14,7 +14,7 @@
       <li><a href="a"> TOP 10 ZESPOŁÓW </a> </li>
       <h3> Piosenki </h3>
         <ol>
-            <li><a href="?"> ULUBIONE PIOSENKI </a></li>
+            <li><a href="b"> ULUBIONE PIOSENKI </a></li>
         </ol> 
         <h2 id="a"> TOP 10 </h2>
       <img src= "https://fabrykagraczy.pl/uploads/images/blog/top10-1-xnb9cm-5ddeb92bdb423874762361.jpg" alt="top" width="400"/>
@@ -29,7 +29,7 @@
       <p> <strong> 9. </strong> Twice </p>
       <p> <strong> 10. </strong> Fall Out Boy </p>
       
-      <h3 id="?"> Ulubione piosenki </h3>
+      <h3 id="b"> Ulubione piosenki </h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNL_7NFHa49dWzy10uqcMGw0_i-sXKlEzpGQ&usqp=CAU" alt="fav" width="400"/>
     <p> <strong> 1. </strong> NCT - From Home </p> 
       <p> <strong> 2. </strong> SHINee - Replay </p>
