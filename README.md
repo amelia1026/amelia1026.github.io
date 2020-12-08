@@ -3,10 +3,9 @@
   <head>
     <meta charset="ut-8">
     <title> Project: Favourite bands </title>
-    <style> h2 {color:rgb(red)} h3 {color:rgb(green)} body {color:rgb(blue)} </style>
   </head>
   <body>
-    <h1> Moje ulubione zespoły </h1>
+    <h2> Moje ulubione zespoły </h2>
     <p> Przedstawię wam moje 10 ulubionych zespołów i ulubione piosenki od nich! :D </p>
   <img src="https://thegreatsouthernbrainfart.com/wp-content/uploads/music-2.jpg" alt="music" width="400"/>
     <h2>Zespoły</h2>
