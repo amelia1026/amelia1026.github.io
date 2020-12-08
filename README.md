@@ -3,6 +3,7 @@
   <head>
     <meta charset="ut-8">
     <title> Project: Favourite bands </title>
+    <style> h2 {color:rgb(red)} h3 {color:rgb(green)} body {color:rgb(blue)} </style>
   </head>
   <body>
     <h1> Moje ulubione zespoły </h1>
@@ -30,32 +31,16 @@
       
       <h3 id="?"> Ulubione piosenki </h3>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNL_7NFHa49dWzy10uqcMGw0_i-sXKlEzpGQ&usqp=CAU" alt="fav" width="400"/>
-    <body> <table> <thead>
-                <tr>
-                    <th>Wykonawca</th>
-                    <th>Ulubiona piosenka</th>
-                </tr>
-      <tr> <td>NCT</td>
-      <td>From Home</td> </tr>
-      <tr> <td>SHINee</td> 
-      <td>Replay</td> </tr>
-      <tr> <td>My Chemical Romance</td>
-      <td>Teenagers</td></tr>
-       <tr> <td>Nirvana</td> 
-       <td>About a girl</td></tr>
-        <tr> <td>GOT7</td> 
-        <td>Thursday</td></tr>
-         <tr> <td>EXO</td> 
-         <td>Call me baby</td></tr>
-          <tr> <td>One Ok Rock</td> 
-          <td>Wasted Nights</td></tr>
-           <tr> <td>AC/DC</td>
-           <td>Thunderstruck</td></tr>
-            <tr> <td>Twice</td>
-            <td>I can't stop me</td></tr>
-             <tr> <td>Fall Out Boy</td>
-             <td>Thnks fr th mmrs</td></tr> 
-             </table><tbody>
-            </tbody> </thead> </body>
+    <p> <strong> 1. </strong> NCT - From Home </p> 
+      <p> <strong> 2. </strong> SHINee - Replay </p>
+      <p> <strong> 3. </strong> My Chemical Romance - Teenagers</p>
+      <p> <strong> 4. </strong> Nirvana - About a girl </p>
+      <p> <strong> 5. </strong> GOT7 - You  calling my name </p>
+      <p> <strong> 6. </strong> EXO - Call me baby </p>
+      <p> <strong> 7. </strong> One Ok Rock - Wasted nights</p>
+      <p> <strong> 8. </strong> AC/DC - Thunderstruck </p>
+      <p> <strong> 9. </strong> Twice - I can't stop me </p>
+      <p> <strong> 10. </strong> Fall Out Boy - Thnks fr th mmrs </p>
+      </body>
   </html>
   
